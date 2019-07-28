@@ -1,2 +1,6 @@
 # Java_Study
-&lt;Java의 정석> 으로 공부합니다.
+<Java의 정석 3rd Edition>으로 공부합니다.
+
+
+### http://www.javachobo.com/
+### https://cafe.naver.com/javachobostudy

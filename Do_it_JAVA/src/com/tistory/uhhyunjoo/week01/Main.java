@@ -1,4 +1,4 @@
-package com.tistory.uhhyunjoo.first;
+package com.tistory.uhhyunjoo.week01;
 
 public class Main {
 

@@ -14,6 +14,5 @@ public class TakeTrans {
         kim.takeSubway(subwayGreen);
         kim.showInfo();
         subwayGreen.showInfo();
-
     }
 }
